@@ -29,14 +29,12 @@ p {
 	text-align: center;
 	font-weight: bold;
 	font-size: 125%;
-	color: black;
 }
 .sectiontext {
 	height: auto;
 	display: inline-block;
 	padding-top: 30px;
 	margin: 10px;
-	color: black;
 }
 #title1 {
 	background-color: red;
